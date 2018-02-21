@@ -10,7 +10,7 @@
   "main": "pace.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/HubSpot/pace.git"
+    "url": "git://github.com/jmillerOI/pace"
   },
   "devDependencies": {
     "grunt-contrib-coffee": "~0.7.0",
